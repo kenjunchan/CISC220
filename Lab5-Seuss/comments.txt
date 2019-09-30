@@ -1,0 +1,17 @@
+Output File 1: HashFunction1, CollisionFunction1
+Output File 2: HashFunction1, CollisionFunction2
+Output File 3: HashFunction2, CollisionFunction1
+Output File 4: HashFunction2, CollisionFunction2
+
+Run 1: Originial Collisions: 26095 Post Collisions: 0
+Run 2: Originial Collisions: 26832 Post Collisions: 238014
+Run 3: Originial Collisions: 24655 Post Collisions: 91523
+Run 4: Originial Collisions: 27233 Post Collisions: 323357
+
+Phrases:
+There is yap-yap and i can happen to the cat.
+I'm Yertle the cat.
+Here are free As turtles had stars!
+Today is on their bellies had stars like them.
+i saw him away with snoots in your gang will eat them with one tree at the bags, one smacker.
+the cat in the turtles
